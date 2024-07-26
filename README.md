@@ -1,10 +1,11 @@
 # threejs-dem-visualizer
 
-![A GIF file showing a preview of the starter project](https://github.com/orabazu/threejs-dem-visualizer/blob/master/preview.gif "Mouth Ağrı, modeled from USGS's digital elevation model and satellite image data")
+!-[A GIF file showing a preview of the starter project](https://github.com/orabazu/threejs-dem-visualizer/blob/master/preview.gif "Mouth Ağrı, modeled from USGS's digital elevation model and satellite image data")
 
 ## Detailed explanation on Medium:
 
-https://medium.com/@zubazor/visualizing-a-mountain-using-three-js-landsat-and-srtm-26275c920e34
+- https://medium.com/@zubazor/visualizing-a-mountain-using-three-js-landsat-and-srtm-26275c920e34
+  - OR https://zubazor.medium.com/visualizing-a-mountain-using-three-js-landsat-and-srtm-26275c920e34
 
 ### Features :
 
